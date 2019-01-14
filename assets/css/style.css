@@ -1,0 +1,17 @@
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: lightblue;
+	color: #5cb85c;
+}
+
+#gifs{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
+
+body{
+    background-color: lightblue;
+}
